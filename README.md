@@ -11,7 +11,7 @@
 - Javascript
 
 
-## Authors
+# Authors
 
 - GitHub: [@mradulpaliwal] (https://github.com/mradulpaliwal)
 
