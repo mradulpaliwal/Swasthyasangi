@@ -16,7 +16,7 @@
 - GitHub: [@mradulpaliwal] (https://github.com/mradulpaliwal)
 
 
-Happy coding and showcasing!
+Happy coding and showcasing
 
 
 ## Show your support
