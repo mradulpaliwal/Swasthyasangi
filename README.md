@@ -1,6 +1,7 @@
-# SWASTHYASANGI
+# SWASTHYASANGI - Your Fitness Training and BMI Companion
 
-" I created this Website template for myself, but instead of burying it, I've shared it on GitHub as an open-source resource. Customize it to create your own unique Template. "
+
+" It  is a comprehensive fitness platform designed to help users on their journey to better health. This website offers personalized fitness training programs and a simple tool to calculate BMI, empowering users to track their progress and maintain a healthy lifestyle. Whether you're just starting or looking to take your fitness to the next level, Swasthyasangi provides all the tools and guidance you need to succeed."
 
 ## Live Demo
 
