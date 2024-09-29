@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-- Click [here](https://gymzilla-fitness.netlify.app/) to view the live demo.
+- Click [here](https://66f9a26fff441c67c3079fb5--swasthyasangi.netlify.app/) to view the live demo.
 
 ## License and Attribution
 
